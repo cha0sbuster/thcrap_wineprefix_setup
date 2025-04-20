@@ -156,6 +156,6 @@ fi
 echo -e "--NOTE-- If we got this far, everything should have installed successfully.\n\
 You may consider appending something like the following to your ~/.[bash,zsh,fish,etc]rc to make using the prefix easier:\n\n\
 alias thwine=\"WINEPREFIX=$WINEPREFIX wine\"\n\
-(so then you can just run \"thwine whatever.exe\"\n)\
+(so then you can just run \"thwine whatever.exe\")\n\
 OKAY GO HAVE FUN BYEEEEE
 "
