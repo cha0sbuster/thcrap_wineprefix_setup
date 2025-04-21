@@ -24,7 +24,7 @@ It sets up a working wineprefix for playing Touhou games with thprac. There's no
 - pull it
 
 ## the
-![the](https://tenor.com/jI55H4LTsT6.gif)
+![the](https://media.tenor.com/b2Q5J_f1txAAAAAj/touhouproject-touhou.gif)
 
 
 i havent had mroe than like 2 hours sleep all weekend gang
