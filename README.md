@@ -1,6 +1,6 @@
 # thcrap_wineprefix_setup
 
-It sets up a working wineprefix for playing Touhou games with thprac. There's not a whole lot to it. If you want actual documentation it's in the script itself.
+It sets up a working wineprefix for playing Touhou games with [thcrap.](https://github.com/thpatch/thcrap) There's not a whole lot to it. If you want actual documentation it's in the script itself.
 
 ## features
 
