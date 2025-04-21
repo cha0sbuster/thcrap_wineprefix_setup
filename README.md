@@ -28,3 +28,5 @@ It sets up a working wineprefix for playing Touhou games with [thcrap.](https://
 
 
 i havent had mroe than like 2 hours sleep all weekend gang
+
+happy easter happy 420
